@@ -1,2 +1,2 @@
-# opencv_learing
+# opencv_learning
 learn opencv
